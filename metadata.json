@@ -1,0 +1,8 @@
+{
+  "name": "Piggy Tales: Pig at Work Google",
+  "description": "An interactive 3D-themed workshop dashboard inspired by the Piggy Tales universe. Design wacky machines, manage your pig workforce, and generate over-engineered blueprints using the Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
